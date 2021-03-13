@@ -1,6 +1,9 @@
 /* Navbar Styles */
+.body{
+  /* font-family: 'Tajawal'!important; */
+}
 .items{
-  /* width: 60%; */
+  width: 50%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -51,7 +54,7 @@ margin-bottom: 25px;
 .downloads h4{
   font-family: 'Tajawal';
   font-size: 32px;
-font-Weight:500;
+font-Weight:bold;
 line-height: 38px;
 font-style: normal;
 }
@@ -65,7 +68,7 @@ color: #656668;
 text-align: center;
 }
 .transformways{  
-  margin-top: 10%;
+  margin-top: 9%;
   padding-right: 24% !important;
 }
 @media (max-width:576px){
@@ -77,7 +80,7 @@ text-align: center;
 .transferways h5{
   font-family: 'Tajawal';
   font-size: 20px;
-font-Weight:400;
+font-Weight:bold;
 line-height: 24px;
 font-style: normal;
 color: #6654A4;
@@ -93,10 +96,10 @@ color: #6654A4;
 }
 
 .participationHeader{
-  font-family: 'Tajawal';
+  /* font-family: 'Tajawal'; */
   color: #6654A4;
   font-size: 20px;
-  font-Weight:500;
+  font-Weight:bold;
   line-height: 24px;
   font-style: normal;
 }
@@ -105,7 +108,7 @@ color: #6654A4;
   font-family: 'Tajawal';
   color: #6654A4;
   font-size: 32px;
-  font-Weight:500;
+  font-Weight:bold;
   line-height: 38px;
   font-style: normal;
 }
@@ -129,13 +132,12 @@ height: 388.15px; */
 padding-bottom: 60px;
 }
 .slick-slider{
-  width:97%
+  width:85%
 }
 
 .easyHeader h3{
-  font-family: 'Tajawal';
   font-size: 40px;
-  font-Weight:500;
+  font-Weight:bold;
   line-height: 48px;
   font-style: normal;
   color: #6654A4;
@@ -171,7 +173,7 @@ text-decoration: none;
 }
 
 .RectImg2{
-
+margin-bottom: 20px;
 
 }
 

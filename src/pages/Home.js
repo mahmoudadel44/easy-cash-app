@@ -123,7 +123,7 @@ const Home = () => {
               />
             </div>
             <div
-              className="col-md-7 col-sm-12 transformways"
+              className="col-md-6 col-sm-12 transformways"
               data-wow-duration="2s"
               data-wow-offset="200"
             >
@@ -131,6 +131,7 @@ const Home = () => {
                 <PaymentWaysCard data={item} key={index} />
               ))}
             </div>
+            <div className="col-md-2"></div>
           </div>
         </div>
       </section>
@@ -141,7 +142,7 @@ const Home = () => {
             <span className="text-center stepsHint">
               بإتباع الخطوات التالية
             </span>
-            <img src={Steps} alt="steps" width="100%" className="mt-4" />
+            <img src={Steps} alt="steps" width="100%" className="mt-5 mb-3" />
           </div>
           <div className="row">
             {participationData.map((item, index) => (

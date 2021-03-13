@@ -358,7 +358,7 @@ font-size: 19px;
 } */
 /* .introduction .btn1:focus, .introduction .btn2:focus{ outline: none;} */
 /* .introduction .before, .introduction .after{ padding-bottom: 70px;} */
-.introduction .before .img2{width: 65%;float: right;}
+.introduction .before .img2{width: 65%;margin-left: 157px;display: flex;width: 68%;}
 /* .introduction .before .before-info{padding: 7% 15% 0 6%;} */
 /* .introduction .before h4{color:#001769; font-weight: bold;} */
 /* .introduction .before p, .introduction .after p{ font-size: 20px;} */

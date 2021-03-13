@@ -6,7 +6,7 @@ const PaymentWaysCard = ({ data }) => {
     <div class="media flex-row-reverse">
       <div className="">{data.paymentImg}</div>
       <div class="media-body text-right mr-3 transferways">
-        <h5 className="purple">{data.header}</h5>
+        <h6 className="purple">{data.header}</h6>
         <p className="">{data.explanation}</p>
       </div>
     </div>
